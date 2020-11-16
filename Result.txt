@@ -1,0 +1,83 @@
+
+
+============ Decision Tree Classifier ================%
+Accuracy After RandomUnderSampler: 99.93%
+Accuracy After ROC: 86.69%
+Precision Score:  84.15%
+Recall Score:  73.40%
+F1-Measure: 78.41%
+Class-1 0: 113712
+Class-1 1: 211
+Proportion-1: 539.0 : 1
+Class-2 0: 113712
+Class-2 1: 113712
+After OverSampling Proportion: 1.0 : 1
+Accuracy After RandomOverSlice-2: 94.50%
+Accuracy After ROC-2: 87.42%
+
+ Precision Score-2:  37.75%
+
+ Recall Score-2:  80.32%
+
+ F1-Measure-2: 37.40%
+
+============ Random Forest Classifier ================%
+Accuracy After RandomUnderSampler: 99.96%
+Accuracy After ROC: 89.89%
+Precision Score:  97.40%
+Recall Score:  79.79%
+F1-Measure: 87.72%
+Class-1 0: 113712
+Class-1 1: 211
+Proportion-1: 539.0 : 1
+Class-2 0: 113712
+Class-2 1: 113712
+After OverSampling Proportion: 1.0 : 1
+Accuracy After RandomOverSlice-2: 98.42%
+Accuracy After ROC-2: 90.98%
+ Precision Score-2:  49.67%
+ Recall Score-2:  83.51%
+ F1-Measure-2: 47.01%
+
+
+============ KNN Classifier ================%
+Accuracy After RandomUnderSampler: 99.90%
+Accuracy After ROC: 91.98%
+Precision Score:  64.75%
+Recall Score:  84.04%
+F1-Measure: 73.15%
+Class-1 0: 113712
+Class-1 1: 211
+Proportion-1: 539.0 : 1
+Class-2 0: 113712
+Class-2 1: 113712
+After OverSampling Proportion: 1.0 : 1
+Accuracy After RandomOverSlice-2: 98.99%
+Accuracy After ROC-2: 92.59%
+
+ Precision Score-2:  34.09%
+
+ Recall Score-2:  86.17%
+
+ F1-Measure-2: 41.83%
+
+============ Naive Bayes Classifier ================%
+Accuracy After RandomUnderSampler: 97.29%
+Accuracy After ROC: 91.21%
+Precision Score:  4.96%
+Recall Score:  85.11%
+F1-Measure: 9.38%
+Class-1 0: 113712
+Class-1 1: 211
+Proportion-1: 539.0 : 1
+Class-2 0: 113712
+Class-2 1: 113712
+After OverSampling Proportion: 1.0 : 1
+Accuracy After RandomOverSlice-2: 97.75%
+Accuracy After ROC-2: 90.91%
+
+ Precision Score-2:  6.07%
+
+ Recall Score-2:  84.04%
+
+ F1-Measure-2: 11.30%
